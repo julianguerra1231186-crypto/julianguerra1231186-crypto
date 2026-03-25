@@ -1,6 +1,6 @@
 <!--
 CONFIG
-FULL_NAME:Julian Andres Guerra Garcia
+FULL_NAME: Julian Andres Guerra Garcia
 GITHUB_USER: julianguerra1231186-crypto
 EMAIL: julianguerra1231186@gmail.com
 CODE_ORGANIZATION: code-corhuila
